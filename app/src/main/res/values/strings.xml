@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidassignment9.1</string>
+    <string name="title_activity_option_menu">OptionMenuActivity</string>
+    <string name="color_text_red">Red</string>
+</resources>
